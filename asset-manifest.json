@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.f7c6ba99.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/resume.pdf": "/static/media/resume.3d8aff9f7697355ac240.pdf",
+    "static/media/marwanyousef.png": "/static/media/marwanyousef.35f4fd8b3f28bc69e2f5.png",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.f7c6ba99.js.map": "/static/js/main.f7c6ba99.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.f7c6ba99.js"
+  ]
+}
