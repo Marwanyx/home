@@ -20,8 +20,8 @@ const mainBody = {
       url: "https://www.linkedin.com/in/marwan-yousef/",
     },
     {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/marwan.yx/",
+      image: "fa-telegram",
+      url: "mailto:marwan.yx@outlook.com",
     },
   ],
 };
