@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/marwan-yousef/",
+      url: "https://www.linkedin.com/in/marwanyousef/",
     },
     {
       image: "fa-telegram",
