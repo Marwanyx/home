@@ -21,7 +21,7 @@ const mainBody = {
     },
     {
       image: "fa-telegram",
-      url: "mailto:marwan.yx@outlook.com",
+      url: "mailto:marwan.yousef@mail.utoronto.ca",
     },
   ],
 };
@@ -119,7 +119,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for Software Engineering or Machine Learning internships! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "marwan.yx@outlook.com",
+  email: "marwan.yousef@mail.utoronto.ca",
 };
 
 const experiences = {
